@@ -1,0 +1,45 @@
+Behaviors
+
+1. Our program should handle:
+a word beginning with a vowel
+
+Input Example
+When it recevies:
+"a"
+
+Output Example
+It should return
+"away"
+
+2. Our program should handle:
+Words beginning with one or more consonants
+
+Input Example
+When it recevies:
+"boy"
+
+Output Example
+It should return
+"oybay"
+
+3. Our program should handle:
+Words beginning with qu
+
+Input Example
+When it recevies:
+"quilt"
+
+Output Example
+It should return
+"iltquay"
+
+4. Our program should handle:
+Words beginning with y
+
+Input Example
+When it recevies:
+"yellow"
+
+Output Example
+It should return
+"ellowyay"
